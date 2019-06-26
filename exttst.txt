@@ -1,0 +1,6 @@
+1
+device:['air conditioner']
+location:['sitting room']
+²»´æÔÚÊôĞÔ
+operation:turn off
+turn off the air conditioner in the sitting room.
