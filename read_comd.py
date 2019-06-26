@@ -11,8 +11,8 @@ graph = Graph("bolt://127.0.0.1:7687", username = 'neo4j', password = '123456')
 nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-10-05')
 # load_path = 'C:/Users/more/Desktop/code/command.txt'
 # save_path = 'C:/Users/more/Desktop/code/extrac_result.txt'
-load_path = 'cmdtst.txt'
-save_path = 'exttst.txt'
+load_path = 'SET2-0626.txt'
+save_path = 'output-set2-0626.txt'
 def f(line):
     dobj_1 = ''
     dobj_index = 0
@@ -287,7 +287,9 @@ def f(line):
             rf.write("不存在操作"+'\n')
         rf.write(line)
 file = open(load_path)
-line = file.readline()
+
+
+lines = file.readlines()
 
 # line="turn off the air conditioner in the sitting room."
 # line="turn on the light in the sitting room."
@@ -305,18 +307,28 @@ line = file.readline()
 
 
 # print(line)
-n=1
-print(n)
-with open(save_path,"a")as f1:
-    f1.write(str(n)+'\n')
-f(line)
+# n=0
+# print(n)
+# with open(save_path,"a")as f1:
+#     f1.write(str(n)+'\n')
+# f(line)
 #
+# print(line)
 # while line:
 #     n=n+1
 #     print(n)
-#     # line = file.readline()
+#     line = file.readline()
+#     print(line)
 #     with open(save_path,"a")as f2:
 #         f2.write(str(n)+'\n')
 #     f(line)
 #     break
 # file.close()
+
+n=0
+for line in lines:
+    n = n + 1
+    with open(save_path, "a")as f2:
+        f2.write(str(n)+'\n')
+    f(line)
+file.close()

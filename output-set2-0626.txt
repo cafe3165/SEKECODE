@@ -1,0 +1,108 @@
+1
+不存在设备
+location:['sitting room']
+不存在属性
+operation:turn off
+turn off the PM2.5 monitor in the sitting room .
+2
+device:['light']
+location:['sitting room']
+不存在属性
+不存在操作
+shut down the smart light in the sitting room .	
+3
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+operation:turn on
+turn on the air conditioner in the sitting room .
+4
+device:['air purifier']
+location:['sitting room']
+不存在属性
+operation:open
+open the air purifier in the sitting room .
+5
+device:['light']
+location:['sitting room', 'sitting room']
+attribute:['brightness']
+不存在操作
+set the brightness of the smart light in the sitting room to x .
+6
+device:['air conditioner']
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+set the temperature of the air conditioner in the sitting room to x .
+7
+device:['air conditioner']
+location:['sitting room']
+attribute:['temperature']
+operation:turn
+turn the temperature of the air conditioner in the sitting room to x .
+8
+device:['air conditioner']
+location:['sitting room']
+attribute:['temperature']
+operation:reduce
+reduce the temperature of the air conditioner in the sitting room .
+9
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+operation:increase
+increase the brightness of the smart light in the sitting room .
+10
+device:['air purifier']
+location:['sitting room']
+不存在属性
+不存在操作
+set the Particulate Matter 2.5 of the air purifier to x in the sitting room .
+11
+device:['air conditioner']
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+what is the temperature of the air conditioner in the sitting room ?
+12
+device:['air conditioner']
+不存在地点
+不存在属性
+不存在操作
+is the air conditioner of sitting room on ?
+13
+device:['light']
+不存在地点
+不存在属性
+不存在操作
+is the smart light on ?
+14
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+operation:increase
+increase the brightness of sitting room .
+15
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:reduce
+reduce the temperature of the sitting room .
+16
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:monitor
+monitor the temperature of sitting room .
+17
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+不存在操作
+what is the brightness in the sitting room ?
+18
+不存在设备
+location:['sitting room']
+不存在属性
+不存在操作
+what is the pm2.5 in the sitting room ?
