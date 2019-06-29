@@ -1,0 +1,102 @@
+1
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:monitor
+monitor the temperature of sitting room .
+2
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:increase
+increase the temperature of sitting room .
+3
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:reduce
+reduce the temperature of sitting room .
+4
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:assign
+assign the temperature of sitting room .
+5
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+operation:monitor
+monitor the brightness of sitting room .
+6
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+operation:increase
+increase the brightness of sitting room .
+7
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+operation:assign
+assign the brightness of sitting room .
+8
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+operation:reduce
+reduce the brightness of sitting room .
+9
+不存在设备
+location:['sitting room']
+不存在属性
+operation:monitor
+monitor the pm2.5 of sitting room .
+10
+不存在设备
+location:['sitting room']
+不存在属性
+operation:reduce
+reduce the pm2.5 of sitting room .
+11
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+what is the temperature in the sitting room ?
+12
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+不存在操作
+what is the brightness in the sitting room ?
+13
+不存在设备
+不存在地点
+attribute:['temperature']
+不存在操作
+set the temperature of sitting room to x .
+14
+不存在设备
+不存在地点
+attribute:['brightness']
+不存在操作
+set the brightness of sitting room to x .
+15
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+set the pm2.5 of sitting room to x .
+16
+不存在设备
+不存在地点
+attribute:['temperature']
+不存在操作
+set the temperature of sitting room to x .
+17
+不存在设备
+不存在地点
+attribute:['brightness']
+不存在操作
+set the brightness of sitting room to x .

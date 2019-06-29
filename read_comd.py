@@ -11,8 +11,9 @@ graph = Graph("bolt://127.0.0.1:7687", username = 'neo4j', password = '123456')
 nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-10-05')
 # load_path = 'C:/Users/more/Desktop/code/command.txt'
 # save_path = 'C:/Users/more/Desktop/code/extrac_result.txt'
-load_path = 'SET2-0626.txt'
-save_path = 'output-set2-0626.txt'
+# load_path = 'SET2-0626.txt'
+load_path="set3-0629-2.txt"
+save_path = 'output-set3-0629-2.txt'
 def f(line):
     dobj_1 = ''
     dobj_index = 0
@@ -332,3 +333,4 @@ for line in lines:
         f2.write(str(n)+'\n')
     f(line)
 file.close()
+

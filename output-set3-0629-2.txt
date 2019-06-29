@@ -1,0 +1,240 @@
+1
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+operation:turn on
+turn on the air conditioner in the sitting room .
+2
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+operation:turn off
+turn off the air conditioner in the sitting room .
+3
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+operation:open
+open the air conditioner in the sitting room .
+4
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+不存在操作
+shut down the air conditioner in the sitting room .
+5
+device:['air conditioner']
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+set the temperature of the air conditioner in the sitting room to x .
+6
+device:['air conditioner']
+location:['sitting room']
+attribute:['temperature']
+operation:turn
+turn the temperature of the air conditioner in the sitting room to x .
+7
+device:['light']
+location:['sitting room']
+不存在属性
+operation:turn on
+turn on the smart light in the sitting room .
+8
+device:['light']
+location:['sitting room']
+不存在属性
+operation:turn off
+turn off the smart light in the sitting room .
+9
+device:['light']
+location:['sitting room']
+不存在属性
+operation:open
+open the smart light in the sitting room .
+10
+device:['light']
+location:['sitting room']
+不存在属性
+不存在操作
+shut down the smart light in the sitting room .
+11
+device:['light']
+location:['sitting room', 'sitting room']
+attribute:['brightness']
+不存在操作
+set the brightness of the smart light in the sitting room to x .
+12
+device:['light']
+location:['sitting room', 'sitting room']
+attribute:['brightness']
+operation:turn
+turn the brightness of the smart light in the sitting room to x .
+13
+不存在设备
+location:['sitting room']
+不存在属性
+operation:turn on
+turn on the pm2.5 monitor in the sitting room .
+14
+不存在设备
+location:['sitting room']
+不存在属性
+operation:turn off
+turn off the pm2.5 monitor in the sitting room .
+15
+不存在设备
+location:['sitting room']
+不存在属性
+operation:open
+open the pm2.5 monitor in the sitting room .
+16
+不存在设备
+location:['sitting room']
+不存在属性
+不存在操作
+shut down the pm2.5 monitor in the sitting room .
+17
+不存在设备
+location:['sitting room']
+不存在属性
+不存在操作
+set the pm2.5 of the pm2.5 monitor in the sitting room to x .
+18
+不存在设备
+location:['sitting room']
+不存在属性
+operation:turn
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x .
+19
+device:['air purifier']
+location:['sitting room']
+不存在属性
+operation:turn on
+turn on the air purifier in the sitting room .
+20
+device:['air purifier']
+location:['sitting room']
+不存在属性
+operation:turn off
+turn off the air purifier in the sitting room .
+21
+device:['air purifier']
+location:['sitting room']
+不存在属性
+operation:open
+open the air purifier in the sitting room .
+22
+device:['air purifier']
+location:['sitting room']
+不存在属性
+不存在操作
+shut down the air purifier in the sitting room .
+23
+device:['air purifier']
+location:['sitting room']
+不存在属性
+不存在操作
+set the pm2.5 of the air purifier in the sitting room to x .
+24
+device:['air purifier']
+location:['sitting room']
+不存在属性
+operation:turn
+turn the pm2.5 of the air purifier in the sitting room to x .
+25
+device:['air conditioner']
+不存在地点
+不存在属性
+不存在操作
+what is the status of the air conditioner ?
+26
+device:['air conditioner']
+不存在地点
+不存在属性
+不存在操作
+is the air conditioner on ?
+27
+device:['air conditioner']
+不存在地点
+不存在属性
+不存在操作
+is the air conditioner off ?
+28
+device:['light']
+不存在地点
+不存在属性
+不存在操作
+what is the status of the smart light ?
+29
+device:['light']
+不存在地点
+不存在属性
+不存在操作
+is the smart light on ?
+30
+device:['light']
+不存在地点
+不存在属性
+不存在操作
+is the smart light off ?
+31
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+what is the status of the pm2.5 monitor ?
+32
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+is the pm2.5 monitor on ?
+33
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+is the pm2.5 monitor off ?
+34
+device:['air purifier']
+不存在地点
+不存在属性
+不存在操作
+what is the status of the air purifier ?
+35
+device:['air purifier']
+不存在地点
+不存在属性
+不存在操作
+is the air purifier on ?
+36
+device:['air purifier']
+不存在地点
+不存在属性
+不存在操作
+is the air purifier off ?
+37
+device:['air conditioner']
+不存在地点
+attribute:['temperature']
+不存在操作
+what is the temperature of the air conditioner ?
+38
+device:['light']
+不存在地点
+attribute:['brightness']
+不存在操作
+what is the brightness of the smart light ?
+39
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+what is the pm2.5 of the pm2.5 monitor ?
+40
+device:['air purifier']
+不存在地点
+不存在属性
+不存在操作
+what is the pm2.5 of the air purifier ?
